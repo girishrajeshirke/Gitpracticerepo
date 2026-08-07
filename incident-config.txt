@@ -1,4 +1,4 @@
 Application: Incident Management System
 Default Priority: MEDIUM
-Critical Priority: HIGH
+Critical Priority: SEV1
 SLA Hours: 4
