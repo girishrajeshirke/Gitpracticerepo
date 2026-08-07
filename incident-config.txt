@@ -1,0 +1,4 @@
+Application: Incident Management System
+Default Priority: MEDIUM
+Critical Priority: HIGH
+SLA Hours: 4
