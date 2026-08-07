@@ -1,4 +1,4 @@
 Application: Incident Management System
 Environment: DEV
 Log Level: DEBUG
-Support Email: support@example.com
+Support Email: login-support@example.com
