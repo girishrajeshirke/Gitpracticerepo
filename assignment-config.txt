@@ -1,4 +1,4 @@
 Assignment Strategy: ROUND_ROBIN
-Maximum Incidents Per Engineer: 10
+Maximum Incidents Per Engineer: 15
 Escalation Timeout: 30
 Team: L1_SUPPORT
