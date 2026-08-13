@@ -1,4 +1,4 @@
 Search Enabled: true
-SLA Hours: 2
+SLA Hours: 5
 Escalation Enabled: false
 Maximum Results: 250
